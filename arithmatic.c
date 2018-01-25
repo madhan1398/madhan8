@@ -4,9 +4,9 @@ int main(void)
 {
 int m,n,i,sum=0,d;
 printf("\nEnter the initial value: ");
-scanf("%d",&a);
+scanf("%d",&m);
 printf("\nEnter the end value: ");
-scanf("%d",&b);
+scanf("%d",&n);
 printf("\nEnter the difference: ");
 scanf("%d",&d);
 for(i=m;i<=n;i=i+d)
