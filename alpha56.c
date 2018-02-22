@@ -3,7 +3,7 @@
 #include<string.h>
 void main()
 {
-    char f[10];
+    char f[27];
     int i;
     scanf("%f",&f);
     printf("the string is %f",f);
